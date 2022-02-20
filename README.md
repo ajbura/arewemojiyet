@@ -6,10 +6,10 @@ To use custom emojis, you need to use a compatible client. Here you can see comp
 
 | Client | Source | Can see | Can type | Can create packs | Can react with (violates spec) | Shows emoji reactions |
 |-|-|-|-|-|-|-|
-| [Element Desktop](https://element.io/) | [link](https://github.com/vector-im/element-web/) | Yes | No | No | No | Yes |
+| [Element Desktop](https://element.io/) | [link](https://github.com/vector-im/element-web/) | Yes | Kinda (/html) | No | No | Yes |
 | [Revolution (Element fork)](https://revolution-dev.nyaaori.cat/) | [link](https://git.sorunome.de/revolution/revolution-web)| Yes | Yes | Yes | No | Yes |
 | [Fluffychat](https://fluffychat.im/) | [link](https://gitlab.com/famedly/fluffychat) | Yes | Yes | Yes | Kinda (/react) | Yes
 | [Nheko](https://nheko-reborn.github.io/) | [link](https://github.com/Nheko-Reborn/nheko) | Yes | ? | Yes | Kinda (/react) | Not really |
-| [Cinny](https://cinny.in/) | [link](https://github.com/ajbura/cinny) | Yes | No | No | Kinda (/react) | No |
+| [Cinny](https://cinny.in/) | [link](https://github.com/ajbura/cinny) | Yes | No | No | No | No |
 | [Element Android](https://matrix.org/docs/projects/client/element-android) | [link](https://github.com/vector-im/element-android) | No | No | No | No | No |
 | [Element iOS](https://matrix.org/docs/projects/client/element-ios) | [link](https://github.com/vector-im/element-ios) | ? | No | No | No | Probably not |
