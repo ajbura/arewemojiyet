@@ -12,4 +12,4 @@ To use custom emojis, you need to use a compatible client. Here you can see comp
 | [Nheko](https://nheko-reborn.github.io/) | [link](https://github.com/Nheko-Reborn/nheko) | Yes | ? | Yes | Kinda (/react) | Not really |
 | [Cinny](https://cinny.in/) | [link](https://github.com/ajbura/cinny) | Yes | Yes | No | Yes | Yes |
 | [Element Android](https://matrix.org/docs/projects/client/element-android) | [link](https://github.com/vector-im/element-android) | No | No | No | No | No |
-| [Element iOS](https://matrix.org/docs/projects/client/element-ios) | [link](https://github.com/vector-im/element-ios) | ? | No | No | No | Probably not |
+| [Element iOS](https://matrix.org/docs/projects/client/element-ios) | [link](https://github.com/vector-im/element-ios) | ? | No | No | No | ? |
