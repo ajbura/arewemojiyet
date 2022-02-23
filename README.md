@@ -9,8 +9,7 @@ To use custom emojis, you need to use a compatible client. Here you can see comp
 
 | Client | Source | Can see | Can type | Can create packs | Can react with (violates spec) | Shows emoji reactions |
 |-|-|-|-|-|-|-|
-| [Element Web/Desktop](https://element.io/) | [link](https://github.com/vector-im/element-web/) | Yes | No | No | No | Yes |
-| [Element Desktop](https://element.io/) | [link](https://github.com/vector-im/element-web/) | Yes | Kinda (/html) | No | No | Yes |
+| [Element Web/Desktop](https://element.io/) | [link](https://github.com/vector-im/element-web/) | Yes | Kinda (/html) | No | No | Yes |
 | [Revolution (Element fork)](https://revolution-dev.nyaaori.cat/) | [link](https://git.sorunome.de/revolution/revolution-web)| Yes | Yes | Yes | No | Yes |
 | [Nheko](https://nheko-reborn.github.io/) | [link](https://github.com/Nheko-Reborn/nheko) | Yes | ? | Yes | Kinda (/react) | Not really |
 | [Mirage](https://matrix.org/docs/projects/client/mirage) | [link](https://github.com/mirukana/mirage) | No | No | No | No | No |
