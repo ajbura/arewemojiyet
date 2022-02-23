@@ -15,7 +15,7 @@ To use custom emojis, you need to use a compatible client. Here you can see comp
 | [Mirage](https://matrix.org/docs/projects/client/mirage) | [link](https://github.com/mirukana/mirage) | No | No | No | No | No |
 | [Neochat](http://apps.kde.org/en/neochat) | [link](https://invent.kde.org/network/neochat) | ? | ? | ? | ? | ? | ? |
 | [Fractal](https://wiki.gnome.org/Apps/Fractal) | [link](https://gitlab.gnome.org/GNOME/fractal) | ? | ? | ? | ? | ? | ?
-| [Gotktrix](https://matrix.org/docs/projects/client/gotktrix) | [link](https://github.com/diamondburned/gotktrix) | ? | ? | ? | ? | ? |
+| [Gotktrix](https://matrix.org/docs/projects/client/gotktrix) | [link](https://github.com/diamondburned/gotktrix) | Yes | No | WIP | Kinda (React w/ text) | No |
 
 ## 🌐 Web
 
