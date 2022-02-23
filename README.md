@@ -11,7 +11,7 @@ To use custom emojis, you need to use a compatible client. Here you can see comp
 |-|-|-|-|-|-|-|
 | [Element Web/Desktop](https://element.io/) | [link](https://github.com/vector-im/element-web/) | Yes | Kinda (/html) | No | No | Yes |
 | [Revolution (Element fork)](https://revolution-dev.nyaaori.cat/) | [link](https://git.sorunome.de/revolution/revolution-web)| Yes | Yes | Yes | No | Yes |
-| [Nheko](https://nheko-reborn.github.io/) | [link](https://github.com/Nheko-Reborn/nheko) | Yes | ? | Yes | Kinda (/react) | Not really |
+| [Nheko](https://nheko-reborn.github.io/) | [link](https://github.com/Nheko-Reborn/nheko) | Yes | ? | Yes | Kinda (/react) | No |
 | [Mirage](https://matrix.org/docs/projects/client/mirage) | [link](https://github.com/mirukana/mirage) | No | No | No | No | No |
 | [Neochat](http://apps.kde.org/en/neochat) | [link](https://invent.kde.org/network/neochat) | Yes | WIP | No | WIP | No |
 | [Fractal](https://wiki.gnome.org/Apps/Fractal) | [link](https://gitlab.gnome.org/GNOME/fractal) | No | No | No | No | No |
