@@ -21,7 +21,7 @@ To use custom emojis, you need to use a compatible client. Here you can see comp
 
 | Client | Source | Can see | Can type | Can create packs | Can react with (violates spec) | Shows emoji reactions |
 |-|-|-|-|-|-|-|
-| [Cinny](https://cinny.in/) | [link](https://github.com/ajbura/cinny) | Yes | Yes | Yes | Yes | Yes |
+| [Cinny](https://cinny.in/) | [link](https://github.com/ajbura/cinny) | Yes | Yes | No | Yes | Yes |
 
 ## 📱 Mobile
 
