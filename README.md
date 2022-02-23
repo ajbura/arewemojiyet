@@ -6,6 +6,7 @@ To use custom emojis, you need to use a compatible client. Here you can see comp
 
 
 ## 🖥️ Desktop
+
 | Client | Source | Can see | Can type | Can create packs | Can react with (violates spec) | Shows emoji reactions |
 |-|-|-|-|-|-|-|
 | [Element Web/Desktop](https://element.io/) | [link](https://github.com/vector-im/element-web/) | Yes | No | No | No | Yes |
@@ -18,11 +19,13 @@ To use custom emojis, you need to use a compatible client. Here you can see comp
 | [Gotktrix](https://matrix.org/docs/projects/client/gotktrix) | [link](https://github.com/diamondburned/gotktrix) | ? | ? | ? | ? | ? |
 
 ## 🌐 Web
+
 | Client | Source | Can see | Can type | Can create packs | Can react with (violates spec) | Shows emoji reactions |
 |-|-|-|-|-|-|-|
 | [Cinny](https://cinny.in/) | [link](https://github.com/ajbura/cinny) | Yes | Yes | Yes | Yes | Yes |
 
 ## 📱 Mobile
+
 | Client | Source | Can see | Can type | Can create packs | Can react with (violates spec) | Shows emoji reactions |
 |-|-|-|-|-|-|-|
 | [Element Android](https://matrix.org/docs/projects/client/element-android) | [link](https://github.com/vector-im/element-android) | No | No | No | No | No |
