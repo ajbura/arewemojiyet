@@ -28,7 +28,7 @@ To use custom emojis, you need to use a compatible client. Here you can see comp
 | Client | Source | Can see | Can type | Can create packs | Can react with (violates spec) | Shows emoji reactions |
 |-|-|-|-|-|-|-|
 | [Element Android](https://matrix.org/docs/projects/client/element-android) | [link](https://github.com/vector-im/element-android) | No | No | No | No | No |
-| [Element iOS](https://matrix.org/docs/projects/client/element-ios) | [link](https://github.com/vector-im/element-ios) | ? | No | No | No | Probably not |
+| [Element iOS](https://matrix.org/docs/projects/client/element-ios) | [link](https://github.com/vector-im/element-ios) | ? | ? | ? | ? | ? |
 | [Fluffychat](https://fluffychat.im/) | [link](https://gitlab.com/famedly/fluffychat) | Yes | Yes | Yes | Kinda (/react) | Yes
 
 
