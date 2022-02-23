@@ -20,7 +20,7 @@ To use custom emojis, you need to use a compatible client. Here you can see comp
 ## 🌐 Web
 | Client | Source | Can see | Can type | Can create packs | Can react with (violates spec) | Shows emoji reactions |
 |-|-|-|-|-|-|-|
-| [Cinny](https://cinny.in/) | [link](https://github.com/ajbura/cinny) | Yes | Yes | Yes | Kinda (/react) | Yes |
+| [Cinny](https://cinny.in/) | [link](https://github.com/ajbura/cinny) | Yes | Yes | Yes | Yes | Yes |
 
 ## 📱 Mobile
 | Client | Source | Can see | Can type | Can create packs | Can react with (violates spec) | Shows emoji reactions |
@@ -29,10 +29,5 @@ To use custom emojis, you need to use a compatible client. Here you can see comp
 | [Element iOS](https://matrix.org/docs/projects/client/element-ios) | [link](https://github.com/vector-im/element-ios) | ? | No | No | No | Probably not |
 | [Fluffychat](https://fluffychat.im/) | [link](https://gitlab.com/famedly/fluffychat) | Yes | Yes | Yes | Kinda (/react) | Yes
 
-
-=======
-| [Cinny](https://cinny.in/) | [link](https://github.com/ajbura/cinny) | Yes | Yes | No | Yes | Yes |
-| [Element Android](https://matrix.org/docs/projects/client/element-android) | [link](https://github.com/vector-im/element-android) | No | No | No | No | No |
-| [Element iOS](https://matrix.org/docs/projects/client/element-ios) | [link](https://github.com/vector-im/element-ios) | ? | No | No | No | ? |
 
 >Please PR if you would like to make changes to this chart eg. filling in ?s or updating errors.
