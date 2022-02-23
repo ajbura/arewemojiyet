@@ -8,14 +8,10 @@ To use custom emojis, you need to use a compatible client. Here you can see comp
 ## 🖥️ Desktop
 | Client | Source | Can see | Can type | Can create packs | Can react with (violates spec) | Shows emoji reactions |
 |-|-|-|-|-|-|-|
-<<<<<<< HEAD
 | [Element Web/Desktop](https://element.io/) | [link](https://github.com/vector-im/element-web/) | Yes | No | No | No | Yes |
-=======
 | [Element Desktop](https://element.io/) | [link](https://github.com/vector-im/element-web/) | Yes | Kinda (/html) | No | No | Yes |
->>>>>>> a430fb0546f2a32ee39a3fcf166de28a953ccb59
 | [Revolution (Element fork)](https://revolution-dev.nyaaori.cat/) | [link](https://git.sorunome.de/revolution/revolution-web)| Yes | Yes | Yes | No | Yes |
 | [Nheko](https://nheko-reborn.github.io/) | [link](https://github.com/Nheko-Reborn/nheko) | Yes | ? | Yes | Kinda (/react) | Not really |
-<<<<<<< HEAD
 | [Mirage](https://matrix.org/docs/projects/client/mirage) | [link](https://github.com/mirukana/mirage) | No | No | No | No | No |
 | [Neochat](http://apps.kde.org/en/neochat) | [link](https://invent.kde.org/network/neochat) | ? | ? | ? | ? | ? | ? |
 | [Fractal](https://wiki.gnome.org/Apps/Fractal) | [link](https://gitlab.gnome.org/GNOME/fractal) | ? | ? | ? | ? | ? | ?
@@ -24,7 +20,7 @@ To use custom emojis, you need to use a compatible client. Here you can see comp
 ## 🌐 Web
 | Client | Source | Can see | Can type | Can create packs | Can react with (violates spec) | Shows emoji reactions |
 |-|-|-|-|-|-|-|
-| [Cinny](https://cinny.in/) | [link](https://github.com/ajbura/cinny) | Yes | No | No | Kinda (/react) | No |
+| [Cinny](https://cinny.in/) | [link](https://github.com/ajbura/cinny) | Yes | Yes | Yes | Kinda (/react) | Yes |
 
 ## 📱 Mobile
 | Client | Source | Can see | Can type | Can create packs | Can react with (violates spec) | Shows emoji reactions |
@@ -40,4 +36,3 @@ To use custom emojis, you need to use a compatible client. Here you can see comp
 | [Element iOS](https://matrix.org/docs/projects/client/element-ios) | [link](https://github.com/vector-im/element-ios) | ? | No | No | No | ? |
 
 >Please PR if you would like to make changes to this chart eg. filling in ?s or updating errors.
->>>>>>> a430fb0546f2a32ee39a3fcf166de28a953ccb59
